@@ -37,4 +37,4 @@ python graphify_studio.py
 
 ---
 
-*Powered by [Graphify](https://github.com/ahmed0x77/graphify)*
+*Powered by [Graphify]([https://github.com/ahmed0x77/graphify](https://github.com/safishamsi/graphify))*
